@@ -14,7 +14,4 @@
   <a href="https://t.me/uniquify">
     <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://evade.rest/">
-    <img src="https://img.shields.io/badge/-evade-black?style=plastic&logo=Google%20Gemini&web=white&logoColor=white&link=https://evade.rest/" alt="Evade" />
-  </a>
 </p>
