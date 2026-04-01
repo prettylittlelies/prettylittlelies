@@ -3,13 +3,13 @@
   <br>
   <br>
   <a href="https://github.com/prettylittlelies">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="github.com" />
   </a>
   <a href="https://discord.com/users/442626774841556992">
-    <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="discord.com" />
   </a>
   <a href="https://t.me/uniquify">
-    <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="t.me" />
   </a>
   <br>
   <br>
