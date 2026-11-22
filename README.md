@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/users/442626774841556992" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://lanyard.kyrie25.dev/api/442626774841556992?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/>
+    <img align="center" src="https://discord.bhoppi.ng/cards/discord?jwt=AQEJAACC4rSGJAZA_wE.u_LNFuWskeAnCmoa"/>
   </a>
   <br>
   <br>
