@@ -4,6 +4,11 @@
   </a>
   <br>
   <br>
+  <a href="https://t.me/brushful" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://discord.bhoppi.ng/cards/telegram?jwt=AQIKCGJydXNoZnVsQD8.y089weykFavGaurC"/>
+  </a>
+  <br>
+  <br>
   <a href="https://github.com/prettylittlelies" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-github.com-black?style=plastic&logo=github&logoColor=white" alt="github.com" />
   </a>
